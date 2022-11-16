@@ -22,11 +22,11 @@
 
 #### Numero do voo com mais atrasos 
 FLIGHT_NUMBER	ATRASOS
-| 469	| 1500 |
-| 223	| 1493 |
-| 761	| 1464 |
-| 719	| 1458 |
-| 327	| 1439 |
+<p> | 469	| 1500 |
+<p> | 223	| 1493 |
+<p> | 761	| 1464 |
+<p> | 719	| 1458 |
+<p> | 327	| 1439 |
 
 #### Companhia aérea com mais atrasos
 
