@@ -7,8 +7,7 @@
 
 #### Hipóteses levantadas: 
 * Existe algum dia na semana em que os atrasos são maiores? 
-* Existe alguma relação entre o atraso e o mês? 
-* Existe relação entre os atrasos e os aeroportos? 
+* Existe alguma relação entre o atraso e o mês?  
 * Existe relação entre os atrasos e as distâncias? 
 * Quais os numeros dos voos que mais atrasam?
 
